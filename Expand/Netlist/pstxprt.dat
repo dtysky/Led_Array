@@ -1,0 +1,314 @@
+FILE_TYPE = EXPANDEDPARTLIST;
+{ Using PSTWRITER 16.6.0 d001Jan-15-2014 at 22:26:25 }
+DIRECTIVES
+ PST_VERSION='PST_HDL_CENTRIC_VERSION_0';
+ ROOT_DRAWING='EXPAND';
+ POST_TIME='Sep 10 2012 04:46:09';
+ SOURCE_TOOL='CAPTURE_WRITER';
+END_DIRECTIVES;
+
+PART_NAME
+ C1 'CAP POL_SMD_1210_22U':;
+
+SECTION_NUMBER 1
+ '@EXPAND.SCHEMATIC1(SCH_1):INS1199527@DISCRETE.CAP POL.NORMAL(CHIPS)':
+ C_PATH='@expand.schematic1(sch_1):ins1199527@discrete.\cap pol.normal\(chips)',
+ P_PATH='@expand.schematic1(sch_1):page3_ins1199527@discrete.\cap pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C2 'CAP POL_SMD_7343_220U':;
+
+SECTION_NUMBER 1
+ '@EXPAND.SCHEMATIC1(SCH_1):INS1199986@DISCRETE.CAP POL.NORMAL(CHIPS)':
+ C_PATH='@expand.schematic1(sch_1):ins1199986@discrete.\cap pol.normal\(chips)',
+ P_PATH='@expand.schematic1(sch_1):page3_ins1199986@discrete.\cap pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D1 'DIODE SCHOTTKY_SS14_1N5819':;
+
+SECTION_NUMBER 1
+ '@EXPAND.SCHEMATIC1(SCH_1):INS4921758@DISCRETE.DIODE SCHOTTKY.NORMAL(CHIPS)':
+ C_PATH='@expand.schematic1(sch_1):ins4921758@discrete.\diode schottky.normal\(chips)',
+ P_PATH='@expand.schematic1(sch_1):page3_ins4921758@discrete.\diode schottky.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D3 'DIODE SCHOTTKY_SMD_0603_0603_LE':;
+
+SECTION_NUMBER 1
+ '@EXPAND.SCHEMATIC1(SCH_1):INS1275446@DISCRETE.DIODE SCHOTTKY.NORMAL(CHIPS)':
+ C_PATH='@expand.schematic1(sch_1):ins1275446@discrete.\diode schottky.normal\(chips)',
+ P_PATH='@expand.schematic1(sch_1):page3_ins1275446@discrete.\diode schottky.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D4 'DIODE SCHOTTKY_SMD_0603_0603_LE':;
+
+SECTION_NUMBER 1
+ '@EXPAND.SCHEMATIC1(SCH_1):INS1277620@DISCRETE.DIODE SCHOTTKY.NORMAL(CHIPS)':
+ C_PATH='@expand.schematic1(sch_1):ins1277620@discrete.\diode schottky.normal\(chips)',
+ P_PATH='@expand.schematic1(sch_1):page3_ins1277620@discrete.\diode schottky.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J1 'HEADER_2X50_HEADER_2X50__1D27_G':;
+
+SECTION_NUMBER 1
+ '@EXPAND.SCHEMATIC1(SCH_1):INS1068131@3D-NECESSARY.HEADER_2X50.NORMAL(CHIPS)':
+ C_PATH='@expand.schematic1(sch_1):ins1068131@\3d-necessary\.\header_2x50.normal\(chips)',
+ P_PATH='@expand.schematic1(sch_1):page1_ins1068131@\3d-necessary\.\header_2x50.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J10 'HEADER_1_HOLE_3D2_HEADER_1':;
+
+SECTION_NUMBER 1
+ '@EXPAND.SCHEMATIC1(SCH_1):INS5017698@3D-NECESSARY.HEADER_1.NORMAL(CHIPS)':
+ C_PATH='@expand.schematic1(sch_1):ins5017698@\3d-necessary\.\header_1.normal\(chips)',
+ P_PATH='@expand.schematic1(sch_1):page3_ins5017698@\3d-necessary\.\header_1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J11 'HEADER_1_HOLE_3D2_HEADER_1':;
+
+SECTION_NUMBER 1
+ '@EXPAND.SCHEMATIC1(SCH_1):INS5017712@3D-NECESSARY.HEADER_1.NORMAL(CHIPS)':
+ C_PATH='@expand.schematic1(sch_1):ins5017712@\3d-necessary\.\header_1.normal\(chips)',
+ P_PATH='@expand.schematic1(sch_1):page3_ins5017712@\3d-necessary\.\header_1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J12 'HEADER_1_HOLE_3D2_HEADER_1':;
+
+SECTION_NUMBER 1
+ '@EXPAND.SCHEMATIC1(SCH_1):INS5017726@3D-NECESSARY.HEADER_1.NORMAL(CHIPS)':
+ C_PATH='@expand.schematic1(sch_1):ins5017726@\3d-necessary\.\header_1.normal\(chips)',
+ P_PATH='@expand.schematic1(sch_1):page3_ins5017726@\3d-necessary\.\header_1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J13 'HEADER_1_HOLE_3D2_HEADER_1':;
+
+SECTION_NUMBER 1
+ '@EXPAND.SCHEMATIC1(SCH_1):INS5017740@3D-NECESSARY.HEADER_1.NORMAL(CHIPS)':
+ C_PATH='@expand.schematic1(sch_1):ins5017740@\3d-necessary\.\header_1.normal\(chips)',
+ P_PATH='@expand.schematic1(sch_1):page3_ins5017740@\3d-necessary\.\header_1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J14 'HEADER_1_HOLE_3D2_HEADER_1':;
+
+SECTION_NUMBER 1
+ '@EXPAND.SCHEMATIC1(SCH_1):INS5017971@3D-NECESSARY.HEADER_1.NORMAL(CHIPS)':
+ C_PATH='@expand.schematic1(sch_1):ins5017971@\3d-necessary\.\header_1.normal\(chips)',
+ P_PATH='@expand.schematic1(sch_1):page3_ins5017971@\3d-necessary\.\header_1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J15 'HEADER_1_HOLE_3D2_HEADER_1':;
+
+SECTION_NUMBER 1
+ '@EXPAND.SCHEMATIC1(SCH_1):INS5017985@3D-NECESSARY.HEADER_1.NORMAL(CHIPS)':
+ C_PATH='@expand.schematic1(sch_1):ins5017985@\3d-necessary\.\header_1.normal\(chips)',
+ P_PATH='@expand.schematic1(sch_1):page3_ins5017985@\3d-necessary\.\header_1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J16 'HEADER_1_HOLE_3D2_HEADER_1':;
+
+SECTION_NUMBER 1
+ '@EXPAND.SCHEMATIC1(SCH_1):INS5017999@3D-NECESSARY.HEADER_1.NORMAL(CHIPS)':
+ C_PATH='@expand.schematic1(sch_1):ins5017999@\3d-necessary\.\header_1.normal\(chips)',
+ P_PATH='@expand.schematic1(sch_1):page3_ins5017999@\3d-necessary\.\header_1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J17 'HEADER_1_HOLE_3D2_HEADER_1':;
+
+SECTION_NUMBER 1
+ '@EXPAND.SCHEMATIC1(SCH_1):INS5018013@3D-NECESSARY.HEADER_1.NORMAL(CHIPS)':
+ C_PATH='@expand.schematic1(sch_1):ins5018013@\3d-necessary\.\header_1.normal\(chips)',
+ P_PATH='@expand.schematic1(sch_1):page3_ins5018013@\3d-necessary\.\header_1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J2 'HEADER_2X20_FPC_0D5_40_(S1+S2)_':;
+
+SECTION_NUMBER 1
+ '@EXPAND.SCHEMATIC1(SCH_1):INS4994986@3D-NECESSARY.HEADER_2X20-1.NORMAL(CHIPS)':
+ C_PATH='@expand.schematic1(sch_1):ins4994986@\3d-necessary\.\header_2x20-1.normal\(chips)',
+ P_PATH='@expand.schematic1(sch_1):page1_ins4994986@\3d-necessary\.\header_2x20-1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='-1';
+
+SECTION_NUMBER 2
+ '@EXPAND.SCHEMATIC1(SCH_1):INS4994934@3D-NECESSARY.HEADER_2X20-2.NORMAL(CHIPS)':
+ C_PATH='@expand.schematic1(sch_1):ins4994934@\3d-necessary\.\header_2x20-2.normal\(chips)',
+ P_PATH='@expand.schematic1(sch_1):page1_ins4994934@\3d-necessary\.\header_2x20-2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='-2';
+
+PART_NAME
+ J3 'HEADER_2X50_HEADER_2X50__1D27_G':;
+
+SECTION_NUMBER 1
+ '@EXPAND.SCHEMATIC1(SCH_1):INS1068343@3D-NECESSARY.HEADER_2X50.NORMAL(CHIPS)':
+ C_PATH='@expand.schematic1(sch_1):ins1068343@\3d-necessary\.\header_2x50.normal\(chips)',
+ P_PATH='@expand.schematic1(sch_1):page1_ins1068343@\3d-necessary\.\header_2x50.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J4 'HEADER_2X40_HEADER_2X40_2D54_SM':;
+
+SECTION_NUMBER 1
+ '@EXPAND.SCHEMATIC1(SCH_1):INS4939350@3D-NECESSARY.HEADER_2X40.NORMAL(CHIPS)':
+ C_PATH='@expand.schematic1(sch_1):ins4939350@\3d-necessary\.\header_2x40.normal\(chips)',
+ P_PATH='@expand.schematic1(sch_1):page2_ins4939350@\3d-necessary\.\header_2x40.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J5 'HEADER_2X10_HEADER_2X10_2D54_SM':;
+
+SECTION_NUMBER 1
+ '@EXPAND.SCHEMATIC1(SCH_1):INS4954913@3D-NECESSARY.HEADER_2X10.NORMAL(CHIPS)':
+ C_PATH='@expand.schematic1(sch_1):ins4954913@\3d-necessary\.\header_2x10.normal\(chips)',
+ P_PATH='@expand.schematic1(sch_1):page2_ins4954913@\3d-necessary\.\header_2x10.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J6 'HEADER_2X20_HEADER_2X20_2D54_DI':;
+
+SECTION_NUMBER 1
+ '@EXPAND.SCHEMATIC1(SCH_1):INS1127452@3D-NECESSARY.HEADER_2X20-1.NORMAL(CHIPS)':
+ C_PATH='@expand.schematic1(sch_1):ins1127452@\3d-necessary\.\header_2x20-1.normal\(chips)',
+ P_PATH='@expand.schematic1(sch_1):page2_ins1127452@\3d-necessary\.\header_2x20-1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='-1';
+
+SECTION_NUMBER 2
+ '@EXPAND.SCHEMATIC1(SCH_1):INS4982856@3D-NECESSARY.HEADER_2X20-2.NORMAL(CHIPS)':
+ C_PATH='@expand.schematic1(sch_1):ins4982856@\3d-necessary\.\header_2x20-2.normal\(chips)',
+ P_PATH='@expand.schematic1(sch_1):page2_ins4982856@\3d-necessary\.\header_2x20-2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='-2';
+
+PART_NAME
+ J7 'HEADER_2X10_HEADER_2X10_2D54_SM':;
+
+SECTION_NUMBER 1
+ '@EXPAND.SCHEMATIC1(SCH_1):INS4956631@3D-NECESSARY.HEADER_2X10.NORMAL(CHIPS)':
+ C_PATH='@expand.schematic1(sch_1):ins4956631@\3d-necessary\.\header_2x10.normal\(chips)',
+ P_PATH='@expand.schematic1(sch_1):page2_ins4956631@\3d-necessary\.\header_2x10.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J8 'HEADER_2X40_HEADER_2X40_2D54_SM':;
+
+SECTION_NUMBER 1
+ '@EXPAND.SCHEMATIC1(SCH_1):INS1236119@3D-NECESSARY.HEADER_2X40.NORMAL(CHIPS)':
+ C_PATH='@expand.schematic1(sch_1):ins1236119@\3d-necessary\.\header_2x40.normal\(chips)',
+ P_PATH='@expand.schematic1(sch_1):page2_ins1236119@\3d-necessary\.\header_2x40.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J9 'HEADER_2X10_HEADER_2X10_2D54_SM':;
+
+SECTION_NUMBER 1
+ '@EXPAND.SCHEMATIC1(SCH_1):INS4955887@3D-NECESSARY.HEADER_2X10.NORMAL(CHIPS)':
+ C_PATH='@expand.schematic1(sch_1):ins4955887@\3d-necessary\.\header_2x10.normal\(chips)',
+ P_PATH='@expand.schematic1(sch_1):page2_ins4955887@\3d-necessary\.\header_2x10.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R1 'R_SMD_0603_1K':;
+
+SECTION_NUMBER 1
+ '@EXPAND.SCHEMATIC1(SCH_1):INS1275406@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@expand.schematic1(sch_1):ins1275406@discrete.\r.normal\(chips)',
+ P_PATH='@expand.schematic1(sch_1):page3_ins1275406@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R2 'R_SMD_0603_1K':;
+
+SECTION_NUMBER 1
+ '@EXPAND.SCHEMATIC1(SCH_1):INS1277580@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@expand.schematic1(sch_1):ins1277580@discrete.\r.normal\(chips)',
+ P_PATH='@expand.schematic1(sch_1):page3_ins1277580@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R3 'R_SMD_0603_3.32K':;
+
+SECTION_NUMBER 1
+ '@EXPAND.SCHEMATIC1(SCH_1):INS1199781@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@expand.schematic1(sch_1):ins1199781@discrete.\r.normal\(chips)',
+ P_PATH='@expand.schematic1(sch_1):page3_ins1199781@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R4 'R_SMD_0603_1.07K':;
+
+SECTION_NUMBER 1
+ '@EXPAND.SCHEMATIC1(SCH_1):INS1199587@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@expand.schematic1(sch_1):ins1199587@discrete.\r.normal\(chips)',
+ P_PATH='@expand.schematic1(sch_1):page3_ins1199587@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ SW1 'SWITCH_6PIN_SWITCH_6PIN_SWITCH_':;
+
+SECTION_NUMBER 1
+ '@EXPAND.SCHEMATIC1(SCH_1):INS4921584@3D-NECESSARY.SWITCH_6PIN.NORMAL(CHIPS)':
+ C_PATH='@expand.schematic1(sch_1):ins4921584@\3d-necessary\.\switch_6pin.normal\(chips)',
+ P_PATH='@expand.schematic1(sch_1):page3_ins4921584@\3d-necessary\.\switch_6pin.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U1 'DC INPUT JACK_DC_JACK_DC INPUT':;
+
+SECTION_NUMBER 1
+ '@EXPAND.SCHEMATIC1(SCH_1):INS1275470@POWER.DC INPUT JACK.NORMAL(CHIPS)':
+ C_PATH='@expand.schematic1(sch_1):ins1275470@power.\dc input jack.normal\(chips)',
+ P_PATH='@expand.schematic1(sch_1):page3_ins1275470@power.\dc input jack.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U2 'LMZ22005_NDW_7_TZA07A_VALUE':;
+
+SECTION_NUMBER 1
+ '@EXPAND.SCHEMATIC1(SCH_1):INS1196206@POWER.LMZ22005_NDW_7.NORMAL(CHIPS)':
+ C_PATH='@expand.schematic1(sch_1):ins1196206@power.\lmz22005_ndw_7.normal\(chips)',
+ P_PATH='@expand.schematic1(sch_1):page3_ins1196206@power.\lmz22005_ndw_7.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+END.

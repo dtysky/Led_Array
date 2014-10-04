@@ -1,0 +1,202 @@
+(ExpressProject "Expand"
+  (ProjectVersion "19981106")
+  (Folder "Design Resources"
+    (Folder "Library"
+      (File "..\library\power.olb"
+        (Type "Schematic Library"))
+      (File "d:\spira_heaven\0-myworks\3d_displayer\pcb\3d-necessary.olb"
+        (Type "Schematic Library")))
+    (NoModify)
+    (File ".\expand.dsn"
+      (Type "Schematic Design"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x")
+    (ANNOTATE_Scope "0")
+    (ANNOTATE_Mode "1")
+    (ANNOTATE_Action "1")
+    (Annotate_Page_Order "0")
+    (ANNOTATE_Reset_References_to_1 "FALSE")
+    (ANNOTATE_No_Page_Number_Change "FALSE")
+    (ANNOTATE_Property_Combine "{Value}{Source Package}{POWER_GROUP}")
+    (ANNOTATE_IncludeNonPrimitive "FALSE")
+    (ANNOTATE_PreserveDesignator "FALSE")
+    (ANNOTATE_PreserveUserEdits "FALSE")
+    (ANNOTATE_Refdes_Control_Required "FALSE")
+    (Update_Instace_for_External_Design "FALSE")
+    (Annotate_type "Default")
+    (width_pages "100")
+    (width_start "80")
+    (width_End "80")
+    (DRC_Scope "0")
+    (DRC_Action "0")
+    (DRC_Create_Warnings "FALSE")
+    (DRC_View_Output "FALSE")
+    (DRC_Run_Electrical_Rules "TRUE")
+    (DRC_Run_Physical_Rules "FALSE")
+    (DRC_Report_File "G:\新建文件夹\Expand\Schematic\EXPAND.DRC")
+    (DRC_Check_Ports "FALSE")
+    (DRC_Check_Off-Page_Connectors "FALSE")
+    (DRC_Report_Ports_and_Off-page_Connectors "FALSE")
+    (DRC_SDT_Compatibility "FALSE")
+    (DRC_Report_Off-grid_Objects "FALSE")
+    (DRC_Check_Unconnected_Nets "TRUE")
+    (DRC_Check_for_Misleading_TAP "FALSE")
+    (DRC_Report_Netnames "FALSE")
+    (DRC_Check_Single_Node_Nets "FALSE")
+    (DRC_Check_No_Driving_Source "TRUE")
+    (DRC_Check_Duplicate_NetNames "TRUE")
+    (DRC_Check_Floating_Pins "TRUE")
+    (DRC_Check_Physical_Power_Pins_Visibility "TRUE")
+    (DRC_Check_PCB_Footprint_Property "TRUE")
+    (DRC_Check_Normal_Convert_View_Sync "TRUE")
+    (DRC_Check_Incorrect_PinGroup_Assignment "TRUE")
+    (DRC_Check_High_Speed_Props_Syntax "TRUE")
+    (DRC_Check_Missing_Pin_Numbers "TRUE")
+    (DRC_Check_Device_With_No_Pins "TRUE")
+    (DRC_Check_Power_Ground_Short "TRUE")
+    (DRC_Identical_References "TRUE")
+    (DRC_Type_Mismatch "TRUE")
+    (DRC_Visible_Power_pins "FALSE")
+    (DRC_Report_Unused_Part_Packages "TRUE")
+    (DRC_Check_Name_Prop_For_HierBlocks "FALSE")
+    (Netlist_TAB "0")
+    (BOM_Scope "0")
+    (BOM_Mode "0")
+    (BOM_Report_File
+       "D:\SPIRA HEAVEN\0-MY WORKS\SRTP\PCB\EXPAND\SCHEMATIC\EXPAND.BOM")
+    (BOM_Merge_Include "FALSE")
+    (BOM_Property_Combine_7.0
+       "{Item}\t{Quantity}\t{Reference}\t{Value}\t{PCB Footprint}")
+    (BOM_Header "Item\tQuantity\tReference\tPart")
+    (BOM_Include_File
+       "D:\SPIRA HEAVEN\0-MY WORKS\SRTP\PCB\EXPAND\SCHEMATIC\EXPAND.INC")
+    (BOM_Include_File_Combine_7.0 "{Item}\t{Quantity}\t{Reference}\t{Value}")
+    (BOM_One_Part_Per_Line "FALSE")
+    (Open_BOM_in_Excel "FALSE")
+    (BOM_View_Output "FALSE"))
+  (Folder "Outputs"
+    (File ".\expand.drc"
+      (Type "Report"))
+    (File ".\allegro\pstxnet.dat"
+      (Type "Report")
+      (DisplayName "pstxnet.dat"))
+    (File ".\allegro\pstxprt.dat"
+      (Type "Report")
+      (DisplayName "pstxprt.dat"))
+    (File ".\allegro\pstchip.dat"
+      (Type "Report")
+      (DisplayName "pstchip.dat"))
+    (File ".\expand.bom"
+      (Type "Report")))
+  (Folder "Referenced Projects")
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Design Resources" ".\expand.dsn")
+      (Path "Design Resources" ".\expand.dsn" "SCHEMATIC1")
+      (Path "Design Resources" "Library")
+      (Path "Outputs")
+      (Select "Design Resources"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 0 200 0 213"))
+      (Tab 0))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 2 3 -1 -1 -8 -31 52 1688 52 512")
+        (Scroll "1491 1857")
+        (Zoom "164")
+        (Occurrence "/"))
+      (Path
+         "D:\SPIRA_HEAVEN\0-MYWORKS\3D_DISPLAYER\PCB\EXPAND\SCHEMATIC\EXPAND.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "HEADER_IN")))
+  (PartMRUSelector
+    (Header_1
+      (FullPartName "Header_1.Normal")
+      (LibraryName "D:\SPIRA HEAVEN\0-MY WORKS\SRTP\PCB\3D-NECESSARY.OLB")
+      (DeviceIndex "0"))
+    (Header_2X20
+      (FullPartName "Header_2X20-2.Normal")
+      (LibraryName "D:\SPIRA HEAVEN\0-MY WORKS\SRTP\PCB\3D-NECESSARY.OLB")
+      (DeviceIndex "1"))
+    (GND
+      (LibraryName "D:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (VCC_BAR
+      (LibraryName "D:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (Header_2X10
+      (FullPartName "Header_2X10.Normal")
+      (LibraryName "D:\SPIRA HEAVEN\0-MY WORKS\SRTP\PCB\3D-NECESSARY.OLB")
+      (DeviceIndex "0"))
+    (Header_2X40
+      (FullPartName "Header_2X40.Normal")
+      (LibraryName "D:\SPIRA HEAVEN\0-MY WORKS\SRTP\PCB\3D-NECESSARY.OLB")
+      (DeviceIndex "0"))
+    ("DIODE SCHOTTKY"
+      (FullPartName "DIODE SCHOTTKY.Normal")
+      (LibraryName
+         "D:\SPIRA HEAVEN\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    (LMZ22005_NDW_7
+      (FullPartName "LMZ22005_NDW_7.Normal")
+      (LibraryName
+         "D:\SPIRA HEAVEN\0-MY WORKS\SRTP\PCB\EXPAND\LIBRARY\POWER.OLB")
+      (DeviceIndex "0"))
+    ("CAP POL"
+      (FullPartName "CAP POL.Normal")
+      (LibraryName
+         "D:\SPIRA HEAVEN\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    (PORTBOTH-R
+      (LibraryName
+         "D:\SPIRA HEAVEN\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (DIP_40X2
+      (FullPartName "DIP_40X2-2.Normal")
+      (LibraryName "D:\SPIRA HEAVEN\0-MY WORKS\SRTP\PCB\3D-NECESSARY.OLB")
+      (DeviceIndex "1"))
+    (Header_2X50
+      (FullPartName "Header_2X50.Normal")
+      (LibraryName "D:\SPIRA HEAVEN\0-MY WORKS\SRTP\PCB\3D-NECESSARY.OLB")
+      (DeviceIndex "0"))
+    ("HEADER 50x2"
+      (FullPartName "HEADER 50x2.Normal")
+      (LibraryName
+         "D:\SPIRA HEAVEN\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\CONNECTOR.OLB")
+      (DeviceIndex "0"))
+    (FPC_2X40
+      (FullPartName "FPC_2X40.Normal")
+      (LibraryName "D:\SPIRA HEAVEN\0-MY WORKS\SRTP\PCB\3D-NECESSARY.OLB")
+      (DeviceIndex "0"))
+    (Header_2X100
+      (FullPartName "Header_2X100.Normal")
+      (LibraryName "D:\SPIRA HEAVEN\0-MY WORKS\SRTP\PCB\3D-NECESSARY.OLB")
+      (DeviceIndex "0"))
+    (Header_2*100
+      (FullPartName "Header_2*100.Normal")
+      (LibraryName "D:\SPIRA HEAVEN\0-MY WORKS\SRTP\PCB\3D-NECESSARY.OLB")
+      (DeviceIndex "0"))
+    (PORTBOTH-L
+      (LibraryName "D:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (Header_1X60
+      (FullPartName "Header_1X60.Normal")
+      (LibraryName "D:\SPIRA HEAVEN\0-MY WORKS\SRTP\PCB\3D-NECESSARY.OLB")
+      (DeviceIndex "0"))
+    (Header_1X50
+      (FullPartName "Header_1X50.Normal")
+      (LibraryName "D:\SPIRA HEAVEN\0-MY WORKS\SRTP\PCB\3D-NECESSARY.OLB")
+      (DeviceIndex "0"))
+    (Data_stitch
+      (FullPartName "Data_stitch.Normal")
+      (LibraryName "D:\SPIRA HEAVEN\0-MY WORKS\SRTP\PCB\3D-NECESSARY.OLB")
+      (DeviceIndex "0")))
+  (MPSSessionName "寂暗")
+  (LastUsedLibraryBrowseDirectory
+     "D:\Spira Heaven\Cadence\SPB_16.6\tools\capture\library")
+  (ISPCBBASICLICENSE "false"))

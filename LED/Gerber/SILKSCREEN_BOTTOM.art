@@ -1,0 +1,31 @@
+G04 ================== begin FILE IDENTIFICATION RECORD ==================*
+G04 Layout Name:  C:/Users/Sky/Desktop/Srtp/PCB/LED/PCB/LED_FIN.brd*
+G04 Film Name:    SILKSCREEN_BOTTOM*
+G04 File Format:  Gerber RS274X*
+G04 File Origin:  Cadence Allegro 16.6-S003*
+G04 Origin Date:  Wed Oct 16 12:41:46 2013*
+G04 *
+G04 Layer:  PACKAGE GEOMETRY/SILKSCREEN_BOTTOM*
+G04 Layer:  BOARD GEOMETRY/OUTLINE*
+G04 Layer:  BOARD GEOMETRY/SILKSCREEN_BOTTOM*
+G04 *
+G04 Offset:    (0.0000 0.0000)*
+G04 Mirror:    No*
+G04 Mode:      Positive*
+G04 Rotation:  0*
+G04 FullContactRelief:  No*
+G04 UndefLineWidth:     0.2000*
+G04 ================== end FILE IDENTIFICATION RECORD ====================*
+%FSLAX25Y25*MOMM*%
+%IR0*IPPOS*OFA0.00000B0.00000*MIA0B0*SFA1.00000B1.00000*%
+%ADD10C,.2*%
+G75*
+%LPD*%
+G75*
+G54D10*
+G01X16275000Y40800000D02*
+Y81000000D01*
+X48045000D01*
+Y40800000D01*
+X16275000D01*
+M02*

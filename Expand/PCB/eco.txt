@@ -1,0 +1,249 @@
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   1  |
+|------------------------------------------------------------------------------|
+|  D:/Spira Heaven/0-My Works/Srtp/PCB/Expand/PCB/Expand.brd                   |
+|                                                    Wed Jan 15 22:26:57 2014  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+  DATA_E0      pins MOVED FROM this net (to net name listed on right)
+                                 J2.38           74.2500 31.2500
+                                                                            GND
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  DATA_E1      pins MOVED FROM this net (to net name listed on right)
+                                 J2.37           74.2500 31.7500
+                                                                            GND
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  DATA_E2      pins MOVED FROM this net (to net name listed on right)
+                                 J2.36           74.2500 32.2500
+                                                                        DATA_E0
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  DATA_E3      pins MOVED FROM this net (to net name listed on right)
+                                 J2.35           74.2500 32.7500
+                                                                        DATA_E1
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  DATA_E4      pins MOVED FROM this net (to net name listed on right)
+                                 J2.34           74.2500 33.2500
+                                                                        DATA_E2
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  DATA_E5      pins MOVED FROM this net (to net name listed on right)
+                                 J2.33           74.2500 33.7500
+                                                                        DATA_E3
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  DATA_E6      pins MOVED FROM this net (to net name listed on right)
+                                 J2.32           74.2500 34.2500
+                                                                        DATA_E4
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  DATA_E7      pins MOVED FROM this net (to net name listed on right)
+                                 J2.31           74.2500 34.7500
+                                                                        DATA_E5
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  DATA_E8      pins MOVED FROM this net (to net name listed on right)
+                                 J2.30           74.2500 35.2500
+                                                                        DATA_E6
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  DATA_E9      pins MOVED FROM this net (to net name listed on right)
+                                 J2.29           74.2500 35.7500
+                                                                        DATA_E7
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  DATA_E10     pins MOVED FROM this net (to net name listed on right)
+                                 J2.28           74.2500 36.2500
+                                                                        DATA_E8
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  DATA_E11     pins MOVED FROM this net (to net name listed on right)
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   2  |
+|------------------------------------------------------------------------------|
+|  D:/Spira Heaven/0-My Works/Srtp/PCB/Expand/PCB/Expand.brd                   |
+|                                                    Wed Jan 15 22:26:57 2014  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+                                 J2.27           74.2500 36.7500
+                                                                        DATA_E9
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  DATA_E12     pins MOVED FROM this net (to net name listed on right)
+                                 J2.26           74.2500 37.2500
+                                                                       DATA_E10
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  DATA_E13     pins MOVED FROM this net (to net name listed on right)
+                                 J2.25           74.2500 37.7500
+                                                                       DATA_E11
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  DATA_E14     pins MOVED FROM this net (to net name listed on right)
+                                 J2.24           74.2500 38.2500
+                                                                       DATA_E12
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  DATA_E15     pins MOVED FROM this net (to net name listed on right)
+                                 J2.23           74.2500 38.7500
+                                                                       DATA_E13
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  DATA_E16     pins MOVED FROM this net (to net name listed on right)
+                                 J2.22           74.2500 39.2500
+                                                                       DATA_E14
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  DATA_E17     pins MOVED FROM this net (to net name listed on right)
+                                 J2.21           74.2500 39.7500
+                                                                       DATA_E15
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  DATA_E18     pins MOVED FROM this net (to net name listed on right)
+                                 J2.20           74.2500 40.2500
+                                                                       DATA_E16
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  DATA_E19     pins MOVED FROM this net (to net name listed on right)
+                                 J2.19           74.2500 40.7500
+                                                                       DATA_E17
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  DATA_E20     pins MOVED FROM this net (to net name listed on right)
+                                 J2.18           74.2500 41.2500
+                                                                       DATA_E18
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  DATA_E21     pins MOVED FROM this net (to net name listed on right)
+                                 J2.17           74.2500 41.7500
+                                                                       DATA_E19
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  DATA_E22     pins MOVED FROM this net (to net name listed on right)
+                                 J2.16           74.2500 42.2500
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   3  |
+|------------------------------------------------------------------------------|
+|  D:/Spira Heaven/0-My Works/Srtp/PCB/Expand/PCB/Expand.brd                   |
+|                                                    Wed Jan 15 22:26:57 2014  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+                                                                       DATA_E20
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  DATA_E23     pins MOVED FROM this net (to net name listed on right)
+                                 J2.15           74.2500 42.7500
+                                                                       DATA_E21
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  DATA_E24     pins MOVED FROM this net (to net name listed on right)
+                                 J2.14           74.2500 43.2500
+                                                                       DATA_E22
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  DATA_E25     pins MOVED FROM this net (to net name listed on right)
+                                 J2.13           74.2500 43.7500
+                                                                       DATA_E23
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  DATA_E26     pins MOVED FROM this net (to net name listed on right)
+                                 J2.12           74.2500 44.2500
+                                                                       DATA_E24
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  DATA_E27     pins MOVED FROM this net (to net name listed on right)
+                                 J2.11           74.2500 44.7500
+                                                                       DATA_E25
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  DATA_E28     pins MOVED FROM this net (to net name listed on right)
+                                 J2.10           74.2500 45.2500
+                                                                       DATA_E26
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  DATA_E29     pins MOVED FROM this net (to net name listed on right)
+                                 J2.9            74.2500 45.7500
+                                                                       DATA_E27
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  DATA_E30     pins MOVED FROM this net (to net name listed on right)
+                                 J2.8            74.2500 46.2500
+                                                                       DATA_E28
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  DATA_E31     pins MOVED FROM this net (to net name listed on right)
+                                 J2.7            74.2500 46.7500
+                                                                       DATA_E29
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  DATA_E32     pins MOVED FROM this net (to net name listed on right)
+                                 J2.6            74.2500 47.2500
+                                                                       DATA_E30
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  DATA_E33     pins MOVED FROM this net (to net name listed on right)
+                                 J2.5            74.2500 47.7500
+                                                                       DATA_E31
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   4  |
+|------------------------------------------------------------------------------|
+|  D:/Spira Heaven/0-My Works/Srtp/PCB/Expand/PCB/Expand.brd                   |
+|                                                    Wed Jan 15 22:26:57 2014  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+  DATA_E34     pins MOVED FROM this net (to net name listed on right)
+                                 J2.4            74.2500 48.2500
+                                                                       DATA_E32
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  DATA_E35     pins MOVED FROM this net (to net name listed on right)
+                                 J2.3            74.2500 48.7500
+                                                                       DATA_E33
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  DC           pins MOVED FROM this net (to net name listed on right)
+                                 J2.1            74.2500 49.7500
+                                                                       DATA_E35
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  GND          pins MOVED FROM this net (to net name listed on right)
+                                 J2.2            74.2500 49.2500
+                                                                       DATA_E34
+                                 J2.39           74.2500 30.7500
+                                                                             DC
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   5  |
+|------------------------------------------------------------------------------|
+|  D:/Spira Heaven/0-My Works/Srtp/PCB/Expand/PCB/Expand.brd                   |
+|                                                    Wed Jan 15 22:26:57 2014  |
+|------------------------------------------------------------------------------|
+| COMPONENT DEFINITION added to board drawing                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    device type                                                               |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ HEADER_1_HOLE_3D2_HEADER_1
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   6  |
+|------------------------------------------------------------------------------|
+|  D:/Spira Heaven/0-My Works/Srtp/PCB/Expand/PCB/Expand.brd                   |
+|                                                    Wed Jan 15 22:26:57 2014  |
+|------------------------------------------------------------------------------|
+| COMPONENTS ADDED to board drawing                                            |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    ref des        |    device type                                           |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ J10                 HEADER_1_HOLE_3D2_HEADER_1 
+ J11                 HEADER_1_HOLE_3D2_HEADER_1 
+ J12                 HEADER_1_HOLE_3D2_HEADER_1 
+ J13                 HEADER_1_HOLE_3D2_HEADER_1 
+ J14                 HEADER_1_HOLE_3D2_HEADER_1 
+ J15                 HEADER_1_HOLE_3D2_HEADER_1 
+ J16                 HEADER_1_HOLE_3D2_HEADER_1 
+ J17                 HEADER_1_HOLE_3D2_HEADER_1 
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   7  |
+|------------------------------------------------------------------------------|
+|  D:/Spira Heaven/0-My Works/Srtp/PCB/Expand/PCB/Expand.brd                   |
+|                                                    Wed Jan 15 22:26:57 2014  |
+|------------------------------------------------------------------------------|
+| SLOT PROPERTIES added to board drawing                                       |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   slot_id    |   x   |   y   |   property   |             value              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ J10.1                          PRIM_FILE      .\pstchip.dat
+ J11.1                          PRIM_FILE      .\pstchip.dat
+ J12.1                          PRIM_FILE      .\pstchip.dat
+ J13.1                          PRIM_FILE      .\pstchip.dat
+ J14.1                          PRIM_FILE      .\pstchip.dat
+ J15.1                          PRIM_FILE      .\pstchip.dat
+ J16.1                          PRIM_FILE      .\pstchip.dat
+ J17.1                          PRIM_FILE      .\pstchip.dat
+|------------------------------------------------------------------------------|
+|   total ECO changes reported  56                                             |
+|------------------------------------------------------------------------------|

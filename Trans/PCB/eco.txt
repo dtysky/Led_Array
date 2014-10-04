@@ -1,0 +1,61 @@
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   1  |
+|------------------------------------------------------------------------------|
+|  D:/Spira Heaven/0-My Works/Srtp/PCB/Trans/PCB/Trans.brd                     |
+|                                                    Fri Feb 21 02:43:25 2014  |
+|------------------------------------------------------------------------------|
+| COMPONENT DEFINITION added to board drawing                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    device type                                                               |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ HEADER_1_HOLE_3D2_HEADER_1
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   2  |
+|------------------------------------------------------------------------------|
+|  D:/Spira Heaven/0-My Works/Srtp/PCB/Trans/PCB/Trans.brd                     |
+|                                                    Fri Feb 21 02:43:25 2014  |
+|------------------------------------------------------------------------------|
+| COMPONENTS ADDED to board drawing                                            |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    ref des        |    device type                                           |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ J16                 HEADER_1_HOLE_3D2_HEADER_1 
+ J17                 HEADER_1_HOLE_3D2_HEADER_1 
+ J18                 HEADER_1_HOLE_3D2_HEADER_1 
+ J19                 HEADER_1_HOLE_3D2_HEADER_1 
+ J20                 HEADER_1_HOLE_3D2_HEADER_1 
+ J21                 HEADER_1_HOLE_3D2_HEADER_1 
+ J22                 HEADER_1_HOLE_3D2_HEADER_1 
+ J23                 HEADER_1_HOLE_3D2_HEADER_1 
+ J24                 HEADER_1_HOLE_3D2_HEADER_1 
+ J25                 HEADER_1_HOLE_3D2_HEADER_1 
+ J26                 HEADER_1_HOLE_3D2_HEADER_1 
+ J27                 HEADER_1_HOLE_3D2_HEADER_1 
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   3  |
+|------------------------------------------------------------------------------|
+|  D:/Spira Heaven/0-My Works/Srtp/PCB/Trans/PCB/Trans.brd                     |
+|                                                    Fri Feb 21 02:43:25 2014  |
+|------------------------------------------------------------------------------|
+| SLOT PROPERTIES added to board drawing                                       |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   slot_id    |   x   |   y   |   property   |             value              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ J16.1                          PRIM_FILE      .\pstchip.dat
+ J17.1                          PRIM_FILE      .\pstchip.dat
+ J18.1                          PRIM_FILE      .\pstchip.dat
+ J19.1                          PRIM_FILE      .\pstchip.dat
+ J20.1                          PRIM_FILE      .\pstchip.dat
+ J21.1                          PRIM_FILE      .\pstchip.dat
+ J22.1                          PRIM_FILE      .\pstchip.dat
+ J23.1                          PRIM_FILE      .\pstchip.dat
+ J24.1                          PRIM_FILE      .\pstchip.dat
+ J25.1                          PRIM_FILE      .\pstchip.dat
+ J26.1                          PRIM_FILE      .\pstchip.dat
+ J27.1                          PRIM_FILE      .\pstchip.dat
+|------------------------------------------------------------------------------|
+|   total ECO changes reported  25                                             |
+|------------------------------------------------------------------------------|

@@ -1,0 +1,28 @@
+import string
+
+import struct
+
+out=open('Led.scr','w');
+
+w=201.3
+h=424.3
+
+for j in range(120):
+
+    wtf='add'+'  '+'connect'+';'+'\n'+'pick'+'  '+str(w)+'  '+str(h)+';'+'\n'
+    out.write(wtf)
+
+    
+    h=h-0.6
+    wtf='pick'+'  '+str(w)+'  '+str(h)+';'+'\n'
+    out.write(wtf)
+    
+    h=h+0.6 
+    wtf='done'+';'+'\n'
+    out.write(wtf)
+
+
+    w=w+2
+
+
+
